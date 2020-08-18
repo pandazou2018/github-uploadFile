@@ -1,0 +1,12 @@
+# 修改端口
+server:
+  port: 8086
+
+# 自定义的属性
+#employee01:
+#  age: 20
+#  dept: {deptNo: 001,deptName: 技术部}
+#  subjects: [java,c,go]
+#  username: 李四
+
+
